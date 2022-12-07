@@ -1,0 +1,31 @@
+.cookie {
+  height: 100%;
+  width: 100%;
+}
+
+p {
+  font-size: 80px;
+  font-style: italic;
+  color: black;
+  margin-top:50px;
+}
+
+.team {
+  font-size: 100px;
+  color: rgb(255, 255, 255);
+}
+
+.idk {
+  font-size: 60px;
+  color: rgb(0, 0, 0);
+}
+
+.price {
+  font-size: 37px;
+  color: rgb(0, 0, 0);
+}
+
+.product {
+  font-size: 37px;
+  color: rgb(0, 0, 0);
+}
